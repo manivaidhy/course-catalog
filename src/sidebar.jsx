@@ -11,7 +11,7 @@ class Sidebar extends Component {
       var th = this;
       var config = {
         method: 'get',
-        url: 'http://cors-anywhere.herokuapp.com/https://frontend-hiring.appspot.com/all_categories?secret=HelloMars',
+        url: 'https://cors-anywhere.herokuapp.com/https://frontend-hiring.appspot.com/all_categories?secret=HelloMars',
         headers: { 
           origin : "*"
         }

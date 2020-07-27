@@ -21,7 +21,7 @@ class Courses extends Component {
       var th = this;
       var config = {
         method: 'get',
-        url: 'http://cors-anywhere.herokuapp.com/https://frontend-hiring.appspot.com/all_courses?secret=HelloMars',
+        url: 'https://cors-anywhere.herokuapp.com/https://frontend-hiring.appspot.com/all_courses?secret=HelloMars',
         headers: {
           origin : "*"
          }
@@ -39,7 +39,7 @@ class Courses extends Component {
       var th = this;
       var config = {
         method: 'get',
-        url: 'http://cors-anywhere.herokuapp.com/https://frontend-hiring.appspot.com/all_courses?secret=HelloMars',
+        url: 'https://cors-anywhere.herokuapp.com/https://frontend-hiring.appspot.com/all_courses?secret=HelloMars',
         headers: { 
           origin : "*"
         }
@@ -57,7 +57,7 @@ class Courses extends Component {
       var th = this;
       var config = {
         method: 'get',
-        url: 'http://cors-anywhere.herokuapp.com/https://frontend-hiring.appspot.com/all_courses?secret=HelloMars',
+        url: 'https://cors-anywhere.herokuapp.com/https://frontend-hiring.appspot.com/all_courses?secret=HelloMars',
         headers: {
           origin : "*"
         }
