@@ -1,0 +1,28 @@
+{
+  "name": "course-catalog",
+  "version": "1.0.0",
+  "description": "Browse, search and filter through a database of courses",
+  "main": "src/index.js",
+  "dependencies": {
+    "axios": "0.18.0",
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
+    "react-html-parser": "^2.0.2",
+    "react-scripts": "2.1.8",
+    "strftime": "^0.10.0"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "author": "Manikandan",
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
