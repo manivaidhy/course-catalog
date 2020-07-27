@@ -5,7 +5,7 @@
   "description": "Browse, search and filter through a database of courses",
   "main": "src/index.js",
   "dependencies": {
-    "axios": "0.18.0",
+    "axios": "0.19.2",
     "react": "16.8.6",
     "react-dom": "16.8.6",
     "react-html-parser": "^2.0.2",
