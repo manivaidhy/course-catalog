@@ -1,16 +1,16 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import Sidebar from './sidebar.jsx';
+import Courses from './courses.jsx';
 
 class App extends React.Component {
   constructor(props) {
     super(props);
-    this.sidebarElement = React.createRef();
+    this.coursesElement = React.createRef();
   }
 
   render() {
     return (
-        <Sidebar ref={this.sidebarElement} />
+        <Courses ref={this.coursesElement} />
     );
   }
 }

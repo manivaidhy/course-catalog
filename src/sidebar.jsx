@@ -27,9 +27,6 @@ class Sidebar extends Component {
       render() {    
 
         return (
-            <div className="wrapper">
-            <header className="header">
-            </header>
           <aside className="aside">
             <h2 className="sidebar-title">Search for keywords</h2>
             <div className="search-group">
@@ -58,8 +55,6 @@ class Sidebar extends Component {
               </div>
             </div>
           </aside>
-          <main className="main"></main>
-          </div>
         )    
       }
     }
