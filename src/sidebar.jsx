@@ -33,7 +33,7 @@ class Sidebar extends Component {
               <span className="search-icon">
               <i className="fa fa-search"></i>
               </span>
-              <input type="text" className="search-input" placeholder="Filter courses" id="inputGroup"></input>
+              <input type="text" onChange={event => this.props.setInput(event)} className="search-input" placeholder="Filter courses" id="inputGroup"></input>
             </div>
             <div className="status-group">
               <h2 className="sidebar-title">Category</h2>
