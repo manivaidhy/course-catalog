@@ -11,7 +11,7 @@ This Project is a Simple ReactJS Project which demonstrates the following
 
 ### Live Application URL
 
-##### https://manibboyz.github.io/course-catalog/
+##### https://manikandanvaidy.github.io/course-catalog/
 This URL has the application deployed in
 
 ### Prerequisites
